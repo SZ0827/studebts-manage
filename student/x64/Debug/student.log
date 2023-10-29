@@ -1,0 +1,18 @@
+﻿  student.c
+E:\student\student\student.c(316,9): warning C4476: "printf": 格式说明符中的类型字段字符“\xe2”未知
+E:\student\student\student.c(324,9): warning C4476: "printf": 格式说明符中的类型字段字符“\xe2”未知
+E:\student\student\student.c(343,9): warning C4476: "printf": 格式说明符中的类型字段字符“\xe2”未知
+E:\student\student\student.c(366,11): warning C4476: "printf": 格式说明符中的类型字段字符“\xe2”未知
+E:\student\student\student.c(383,11): warning C4476: "printf": 格式说明符中的类型字段字符“\xe2”未知
+E:\student\student\student.c(649,11): warning C4476: "printf": 格式说明符中的类型字段字符“\xe2”未知
+E:\student\student\student.c(414,12): warning C4101: “y”: 未引用的局部变量
+E:\student\student\student.c(414,9): warning C4101: “x”: 未引用的局部变量
+E:\student\student\student.c(540,13): warning C4101: “y”: 未引用的局部变量
+E:\student\student\student.c(540,10): warning C4101: “x”: 未引用的局部变量
+E:\student\student\student.c(679,12): warning C4101: “y”: 未引用的局部变量
+E:\student\student\student.c(679,9): warning C4101: “x”: 未引用的局部变量
+E:\student\student\student.c(770,13): warning C4101: “y”: 未引用的局部变量
+E:\student\student\student.c(770,10): warning C4101: “x”: 未引用的局部变量
+E:\student\student\student.c(1056,6): warning C4101: “i”: 未引用的局部变量
+E:\student\student\student.c(1952): warning C4172: 返回局部变量或临时变量的地址: l
+  student.vcxproj -> E:\student\student\x64\Debug\student.exe
